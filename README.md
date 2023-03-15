@@ -15,12 +15,12 @@
 </a>
     
     
-<a href="https://www.linkedin.com/in/emad-mohamed-b7a1a262/" target="blank">
+<a href="https://www.linkedin.com/in/emad-mohamed-software-engineer/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="Emad Mohamed" height="30" width="40" />
 </a>
     
-<a href="https://twitter.com/emadextra" target="blank">
+<a href="https://twitter.com/EmadMohDev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
          alt="Emad Mohamed" height="30" width="40" />
  </a>
